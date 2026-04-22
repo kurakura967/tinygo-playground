@@ -8,6 +8,11 @@
 *.so
 *.dylib
 
+# TinyGo build artifacts
+*.uf2
+*.bin
+*.elf
+
 # Test binary, built with `go test -c`
 *.test
 
@@ -29,4 +34,5 @@ go.work.sum
 
 # Editor/IDE
 # .idea/
-# .vscode/
+.vscode/
+.serena/
