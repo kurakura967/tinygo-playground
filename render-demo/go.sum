@@ -1,0 +1,12 @@
+github.com/chewxy/math32 v1.11.1 h1:b7PGHlp8KjylDoU8RrcEsRuGZhJuz8haxnKfuMMRqy8=
+github.com/chewxy/math32 v1.11.1/go.mod h1:dOB2rcuFrCn6UHrze36WSLVPKtzPMRAQvBvUwkSsLqs=
+github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 h1:El6M4kTTCOh6aBiKaUGG7oYTSPP8MxqL4YI3kZKwcP4=
+github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510/go.mod h1:pupxD2MaaD3pAXIBCelhxNneeOaAeabZDe5s4K6zSpQ=
+github.com/sago35/koebiten v0.6.0 h1:hPJsxBM83Nohb03LsRjH4SNgztuj5ddH/wBZBKkDuV0=
+github.com/sago35/koebiten v0.6.0/go.mod h1:p4D/TJE8vSrPp+Za1GUJnU3Gio4qzpu307MFxtjt/QM=
+tinygo.org/x/drivers v0.35.0 h1:cTK36tsI/S4Mg3hCPH0MBjV/ta7XKQ+wpvch4mVqgsE=
+tinygo.org/x/drivers v0.35.0/go.mod h1:DQgKyHkB4G6IEOKVTAjApbKnWGwESN91EVJO+nMOE9Y=
+tinygo.org/x/tinydraw v0.4.0 h1:U9V0mHz8/jPShKjlh199vCfq1ARFyUOD1b+FfqIwV8c=
+tinygo.org/x/tinydraw v0.4.0/go.mod h1:WCV/EMljTv8w04iAxjv+fRD6/4ffx0afATYeJlN90Yo=
+tinygo.org/x/tinyfont v0.6.0 h1:GibXDSFz6xrWnEDkDRo6vsbOyRw0MVj/eza3zNHMSHs=
+tinygo.org/x/tinyfont v0.6.0/go.mod h1:onflMSkpWl7r7j4MIqhPEVV39pn7yL4N3MOePl3G+G8=

@@ -18,7 +18,7 @@ const (
 )
 
 var texts = map[machine.Pin]string{
-	btnA: "Button A!",
+	btnA: "Button A!!",
 	btnB: "Button B!",
 	btnC: "Button C!",
 }
